@@ -120,4 +120,50 @@ h1{
     color: #1F2937;
     font-size: 18px;
 }
+.third-content-box{
+    background-color: #E5E7EB;
+    padding: 50px 0 50px 0;
+}
+.quote {
+    font-size: 36px;
+    font-style:  italic;
+    color: #1F2937;
+}
+.quote span{
+    font-weight:  bolder;
+    font-style: normal;
+    padding-left: 300px;
+    font-size: 20px;
+}
+.fourth-content-box{
+    color: #f9faf8;
+    background-color: #3882f6;
+    margin:40px 50px 40px 50px;
+    border-radius: 8px;
+}
+.CTA{
+    padding: 15px 0 15px 0;
+    justify-content: space-between;
+    
+}
+.CTA button{
+    background-color: transparent;
+    border: 1px solid #f9faf8;
+    border-radius: 8px;
+    color: #f9faf8;
+    padding:10px;
 
+}
+.CTA .content p{
+    font-size: 15px;
+}
+
+.footer{
+    background-color:#1f2937;
+    color: #f9faf8;
+    justify-content: center;
+    padding: 35px 0px 35px 0px;
+    font-size: 12px;
+
+
+}
